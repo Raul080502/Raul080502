@@ -1,8 +1,6 @@
-
-<h2 align="center">
-  Welcome to Raul's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<div>
+  <h1 contenteditable="true">Welcome to Raul's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+</div>
 
 <img src="https://i.pinimg.com/originals/90/f5/77/90f577fc6abcd24f9a5f9f55b2d7482b.gif">
 
